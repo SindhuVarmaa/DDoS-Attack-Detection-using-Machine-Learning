@@ -15,3 +15,25 @@ Apply Random Forest (and optionally SVM) machine learning algorithms to detect D
 
 Integrate a basic mitigation module for real-time response to detected attacks
 
+ Installation Links
+Mininet:
+https://github.com/mininet/mininet#installation
+
+Ryu Controller:
+https://github.com/faucetsdn/ryu#installation
+
+Python (recommended: 3.8+):
+https://www.python.org/downloads/
+
+Scikit-learn:
+
+nginx
+Copy
+Edit
+pip install scikit-learn
+Pandas, NumPy, Matplotlib (optional but useful):
+
+nginx
+Copy
+Edit
+pip install pandas numpy matplotlib
